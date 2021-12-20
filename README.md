@@ -1,17 +1,12 @@
 # flutter_calculator
+<i>A calculator app with basic functionalities - works in both landscape and portrait modes </i> 
 
-a calculator app with basic functionalities - uses built-in fonts and icons - works in both landscape and portrait modes
+### apk
+<a href="https://drive.google.com/file/d/1dbFr17ph_OiiZlT9zb4S3tV711mGXU7p/view?usp=sharing">Drive link</a> 
 
-## Getting Started
+### Video demo:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/69793895/146753779-8b141e29-fad2-4cd8-afb9-6b9a5f8aa3d5.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutter-calculator" 
