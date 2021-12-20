@@ -27,7 +27,7 @@ class CustomButton extends StatelessWidget {
         style: ButtonStyle(
           backgroundColor: MaterialStateProperty.resolveWith<Color>(
               (Set<MaterialState> states) {
-            return bgColor; // Use the component's default.
+            return bgColor; 
           }),
         ),
         autofocus: true,
@@ -41,7 +41,7 @@ class CustomButton extends StatelessWidget {
                   text,
                   style: TextStyle(
                     color: color,
-                    fontSize:                       orientation == Orientation.portrait
+                    fontSize: orientation == Orientation.portrait
                         ? SizeConfig.safeBlockHorizontal * 7
                         : SizeConfig.safeBlockVertical * 5),
                   ),
